@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>PeterAI</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Wed, 04 Jun 2025 00:30:14 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/paciosdev/peterai_app/peterai.dmg" length="4551842" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
