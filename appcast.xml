@@ -3,12 +3,12 @@
     <channel>
         <title>PeterAI</title>
         <item>
-            <title>1.0.2</title>
-            <pubDate>Wed, 04 Jun 2025 11:13:42 +0200</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <title>1.0.3</title>
+            <pubDate>Wed, 04 Jun 2025 11:32:57 +0200</pubDate>
+            <sparkle:version>1.0.3</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/paciosdev/peterai_app/releases/download/release/peterai.dmg" length="4553935" type="application/octet-stream"/>
+            <enclosure url="https://github.com/paciosdev/peterai_app/releases/download/release/peterai.dmg" length="4553551" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
